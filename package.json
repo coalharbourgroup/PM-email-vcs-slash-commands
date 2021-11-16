@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^16.15.0",
-    "aws-sdk": "^2.258.1",
+    "aws-sdk": "^2.814.0",
     "email-vcs": "git+https://github.com/coalharbourgroup/email-vcs.git#master",
     "query-string": "^6.1.0",
     "request": "^2.87.0",
